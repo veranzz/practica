@@ -1,5 +1,5 @@
 .header {
-    background-image: https://user-images.githubusercontent.com/92897541/209709917-1bf7d20e-7649-4256-8391-25d697275c65.jpg;
+    background-image: url(https://user-images.githubusercontent.com/92897541/209709917-1bf7d20e-7649-4256-8391-25d697275c65.jpg);
     min-height: 600px;
     background-size: cover;
     background-position: center;
